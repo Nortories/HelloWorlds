@@ -17,3 +17,5 @@ This repository shows that there can be many ways to achieve the same outcome in
 - [Source Control overview with VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
 - [GitHub in VS Code](https://code.visualstudio.com/docs/sourcecontrol/github)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+- [CShape Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [Python Documentation](https://docs.python.org/3/)
